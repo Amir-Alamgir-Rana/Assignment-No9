@@ -1,4 +1,3 @@
-```markdown
 # 💼 Sum Calculator – Elegant Formula Edition
 
 Hi Amir! 👋  
@@ -9,7 +8,6 @@ This is your first self-contained HTML/CSS/JS project — a **sum calculator** t
 ## 📁 Folder Structure
 
 You're currently inside:
-```
 
 C:\vscode\amir\solution1
 
