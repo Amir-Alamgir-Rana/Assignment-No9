@@ -68,6 +68,7 @@ If you want to keep a version history:
 git add .
 git commit -m "Initial luxury-style sum calculator"
 git push origin main
+```
 
 ---
 
@@ -81,8 +82,3 @@ This project might look small — but it shows:
 - And design taste that _slaps_
 
 Keep going, Amir! This is just the beginning 🔥👑
-
-
-
-
-```
