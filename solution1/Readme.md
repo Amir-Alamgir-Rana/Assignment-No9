@@ -1,4 +1,3 @@
-```markdown
 # 💼 Sum Calculator – Elegant Formula Edition
 
 Hi Amir! 👋  
@@ -13,14 +12,11 @@ You're currently inside:
 `C:\vscode\amir\solution1`
 
 Here's what’s inside:
-```
 
 solution1/
 ├── index.html ← The main webpage
 ├── style.css ← Elegant styling (rich vibes)
 └── script.js ← JavaScript for sum calculation
-
-```
 
 ---
 
@@ -40,16 +36,14 @@ solution1/
 ## 🚀 How to Run It
 
 ### ✅ Option 1: Double-click
+
 Just double-click `index.html` — it’ll open in your default browser.
 
 ### ✅ Option 2: Run through VSCode (Recommended)
+
 1. Open the folder in VSCode:
 
-```
-
 File > Open Folder > C:\vscode\amir\solution1
-
-````
 
 2. Right-click `index.html` in the explorer sidebar
 3. Click **“Open with Live Server”** (if you have the extension)
@@ -74,7 +68,6 @@ If you want to keep a version history:
 git add .
 git commit -m "Initial luxury-style sum calculator"
 git push origin main
-````
 
 ---
 
@@ -89,6 +82,7 @@ This project might look small — but it shows:
 
 Keep going, Amir! This is just the beginning 🔥👑
 
-```
+
+
 
 ```
