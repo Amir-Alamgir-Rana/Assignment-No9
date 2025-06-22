@@ -60,11 +60,10 @@ With this skill, you’ll be able to:
 ## 🧭 Getting Started
 
 1. **Clone this repo**
+
    ```bash
    git clone https://github.com/algosal/amir.git
    ```
-
-````
 
 2. **Install Node.js and npm**
    Download from [nodejs.org](https://nodejs.org/)
@@ -77,10 +76,10 @@ With this skill, you’ll be able to:
 
 ## ✨ Helpful Tips
 
-* **Commit small, often** — it helps track your learning
-* **Keep your code readable** — clear code is powerful code
-* **Always test in a browser or emulator**
-* **Ask questions** — there’s no such thing as a dumb one
+- **Commit small, often** — it helps track your learning
+- **Keep your code readable** — clear code is powerful code
+- **Always test in a browser or emulator**
+- **Ask questions** — there’s no such thing as a dumb one
 
 ---
 
@@ -89,9 +88,9 @@ With this skill, you’ll be able to:
 We’re all here to learn and grow together.
 If you get stuck, reach out through:
 
-* GitHub Issues
-* Comments in code
-* Or just ping your mentor or teammate
+- GitHub Issues
+- Comments in code
+- Or just ping your mentor or teammate
 
 ---
 
@@ -102,4 +101,4 @@ We're here to guide you and cheer you on — let’s make something awesome toge
 
 ```
 
-````
+```
