@@ -98,7 +98,3 @@ If you get stuck, reach out through:
 
 From the first line of code to full-fledged apps, this journey is yours.
 We're here to guide you and cheer you on — let’s make something awesome together 💻✨📱
-
-```
-
-```
